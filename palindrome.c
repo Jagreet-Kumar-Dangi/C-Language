@@ -10,7 +10,7 @@ int main(){
     if(strcmp(org,str1)==0){
         printf("\nPalindrome");
     }else{
-        printf("Not Palindrome");
+        printf("Not Palindrome!");
     }
     return 0;
 }
