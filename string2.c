@@ -16,6 +16,6 @@ int main(){
     if(strlen(str1)==cmp)
         printf("Anagram");
     else
-        printf("Not Anagram");
+        printf("Not Anagram!");
     return 0;
 }
