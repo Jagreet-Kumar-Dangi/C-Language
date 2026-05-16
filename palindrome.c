@@ -8,7 +8,7 @@ int main(){
     strcpy(org,str1);
     strrev(str1);
     if(strcmp(org,str1)==0){
-        printf("\nPalindrome");
+        printf("\nPalindrome!");
     }else{
         printf("Not Palindrome!");
     }
