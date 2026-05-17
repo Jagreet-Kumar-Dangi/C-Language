@@ -2,7 +2,7 @@
 #include <string.h>
 int main(){
     char str[100];
-    printf("Enter string: ");
+    printf("Enter string= ");
     fgets(str,100,stdin);
     for(int i=0;str[i]!='\0';i++){
         if(str[i]>=65 && str[i]<=90){
