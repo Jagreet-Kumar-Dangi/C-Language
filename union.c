@@ -1,7 +1,7 @@
 #include <stdio.h>
 union demo
 {
-    int a;
+    int x;
     char b;
     float c;
 };
