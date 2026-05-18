@@ -8,6 +8,6 @@ struct student
 int main(){
     struct student s={1,"Bablu",98};
     struct student *ptr =&s;
-    printf("Roll no is: %d",ptr->roll);
+    printf("Roll no is; %d",ptr->roll);
     return 0;
 }
