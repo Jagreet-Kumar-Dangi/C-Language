@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     char str[100];
-    printf("\n Enter String: ");
+    printf("\n Enter String= ");
     fgets(str,100,stdin);
     int flag=1;
     int l=0;
