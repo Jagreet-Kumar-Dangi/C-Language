@@ -19,7 +19,7 @@ int main(){
     printf("\n String 2: ");
     fgets(str2,100,stdin);
     if(strlen(str1)!=strlen(str2)){
-        printf("\n Not Anagram Strings");
+        printf("\n Not Anagram Strings}");
     }else{
         sort(str1,100);
         sort(str2,100);
