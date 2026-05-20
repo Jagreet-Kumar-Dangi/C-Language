@@ -21,7 +21,7 @@ int main(){
         printf("Info of Student %d\n",i+1);
         printf("Roll no. %d\n",s[i].roll);
         printf("name of student: %s",s[i].name);
-        printf("marks of student : %f",s[i].marks);
+        printf("Marks of student : %f",s[i].marks);
     }
     return 0;
 }
