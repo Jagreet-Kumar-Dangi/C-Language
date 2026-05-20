@@ -20,6 +20,6 @@ int main(){
     if(strcmp(str,org)==0){
         printf("Palindrome!");
     }else{
-        printf("Not Palindrome}");
+        printf("Not Palindrome\n");
     }
 }
