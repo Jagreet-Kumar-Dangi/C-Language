@@ -26,7 +26,7 @@ int main(){
         if(strcmp(str1,str2)==0){
             printf("Anagram");
         }else{
-            printf("Not Anagram]");
+            printf("Not Anagram\n");
         }
     }
 }
