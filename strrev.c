@@ -10,7 +10,7 @@ int main(){
         str[i]=str[l-2-i];
         str[l-2-i]=temp;
     }
-    printf("String= %s",str);
+    printf("String\n= %s",str);
     printf("%s",str);
     return 0;
 }
