@@ -18,7 +18,7 @@ int main(){
         str[l - 1 - i] = temp;
     }
     if(strcmp(str,org)==0){
-        printf("Palindrome!");
+        printf("Palindrome\n");
     }else{
         printf("Not Palindrome\n");
     }
