@@ -17,6 +17,6 @@ int main(){
     if(r)
         printf("Palindrome");
     else
-        printf("Not Palindrome");
+        printf("Not Palindrome.");
     
 }
