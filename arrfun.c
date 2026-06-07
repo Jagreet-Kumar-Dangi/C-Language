@@ -10,7 +10,7 @@ int main(){
 }
 void display(int A[],int size){
     int i;
-    printf("Elements in an array A are\n");
+    printf("Elements in an array A are \n");
     for(i=0;i<size;i++){
         scanf("%d",&A[i]);
     }
