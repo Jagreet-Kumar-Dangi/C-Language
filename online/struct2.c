@@ -22,7 +22,7 @@ int main(){
             scanf("%d",&S[i].marks[j]);
         }
     }
-    printf("\nDetails of Student Ssaved as Record");
+    printf("\nDetails of Student Ssaved as Record ");
     for(int i=0;i<3;i++){
         printf("\nName=%s",S[i].name);
         printf("\nRegistration=%d",S[i].reg);
