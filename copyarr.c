@@ -24,7 +24,7 @@ int main(){
         j++;
     }
     printf("Element of arr3");
-    printf("Enter element of arr1");
+    printf("Enter element of arr1 ");
     for(int i=0;i<r;i++){
         printf("%d\n",arr3[i]);
     }
