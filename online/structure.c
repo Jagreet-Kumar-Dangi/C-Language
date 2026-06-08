@@ -10,7 +10,7 @@ struct student
 }s1;
 int main()
 {
-    strcpy(s1.name,"Jagreet");
+    strcpy(s1.name,"Jagreet kumar");
     s1.reg=12509577;
     s1.rno=26;
     strcpy(s1.branch,"CSE");
