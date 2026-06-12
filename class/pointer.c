@@ -5,7 +5,7 @@ int  main(){
     float b=5.5;
     char c='X';
     p=&a;
-    printf("\nAddress of var a=%d ",p);
+    printf("\nAddress of var a=%d",p);
     printf("\nValue of var a=%d",*(int *)p);
     p=&b;
     printf("\nAddress of var a=%d ",p);
