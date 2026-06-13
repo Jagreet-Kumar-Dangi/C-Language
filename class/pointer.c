@@ -8,7 +8,7 @@ int  main(){
     printf("\nAddress of var a=%d",p);
     printf("\nValue of var a=%d",*(int *)p);
     p=&b;
-    printf("\nAddress of var a=%d ",p);
+    printf("\nAddress of var a=%d",p);
     printf("\nValue of var a=%.1f",*(float *)p);
     p=&c;
     printf("\nAddress of var a=%d ",p);
