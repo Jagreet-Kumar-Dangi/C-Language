@@ -24,8 +24,8 @@ int main(){
     }
     printf("\nDetails of Student Ssaved as Record ");
     for(int i=0;i<3;i++){
-        printf("\nName=%s",S[i].name);
-        printf("\nRegistration=%d",S[i].reg);
-        printf("\nmarsk=%ls\n",S[i].marks);
+        printf("\nName= %s",S[i].name);
+        printf("\nRegistration= %d",S[i].reg);
+        printf("\nmarsk= %ls\n",S[i].marks);
     }
 } 
