@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n = 4;
+    int n = 5;
     int G[n + 1];
 
     G[1] = 1;
