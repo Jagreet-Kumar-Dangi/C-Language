@@ -26,7 +26,7 @@ int main() {
 
     for(int i = 0; i < 5; i++) {
         printf("\nBook %d Details:\n", i+1);
-        printf("Name: %s\n", books[i].name);
+        printf("Name: %s \n", books[i].name);
         printf("Author Name: %s\n", books[i].authorName);
         printf("Price: %.2f\n", books[i].price);
         printf("Pages: %d\n", books[i].pages);
