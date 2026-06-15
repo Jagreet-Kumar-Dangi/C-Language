@@ -15,8 +15,8 @@ int main(){
     fgets(str,100,stdin);
     int r=check(str,100);
     if(r)
-        printf("Palindrome.");
+        printf("Palindrome!");
     else
-        printf("Not Palindrome.");
+        printf("Not Palindrome!");
     
 }
