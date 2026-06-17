@@ -29,7 +29,7 @@ int main(){
             printf("%d",arrdiff[r][c]);
             printf("\t");
         }
-        printf("\n");
+        printf("\n ");
     }
     
     return 0;
