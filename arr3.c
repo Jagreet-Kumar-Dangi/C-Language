@@ -16,6 +16,6 @@ int main(){
             printf("%d",arr[r][c]);
             printf("\t");
         }
-        printf("\n");
+        printf("\n ");
     }
 }
