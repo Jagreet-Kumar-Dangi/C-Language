@@ -12,6 +12,6 @@ int main(){
         }
         
     }
-    printf("\n%d\n",tot);
+    printf("\n%d \n",tot);
     return 0;
 }
