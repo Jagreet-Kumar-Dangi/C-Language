@@ -17,8 +17,8 @@ int main(){
                 up +=arr[r][c];
         }
     }
-    printf("Lower tri value: %d\n",low);
-    printf("upp tri value: %d\n",up);
+    printf("Lower tri value:%d\n",low);
+    printf("upp tri value:%d\n",up);
 
     return 0;
 }
