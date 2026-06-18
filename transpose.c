@@ -18,7 +18,7 @@ int main(){
         }
         printf("\n");
     }
-    printf("Values of array 1 after transpose: \n");
+    printf("Values of array 1 after transpose:\n");
     for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             arr1[j][i]=arr[i][j];
