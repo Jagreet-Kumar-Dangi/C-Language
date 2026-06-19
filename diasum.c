@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int n,m;
-    printf("Enter rows and columns: \n");
+    printf("Enter rows and columns:\n");
     scanf("%d %d",&n,&m);
     int arr[n][m];
     printf("Enter the values: ");
