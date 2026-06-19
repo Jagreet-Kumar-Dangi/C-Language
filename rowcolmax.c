@@ -27,7 +27,7 @@ int main(){
             if(arr[j][i]>max_col)
                 max_col=arr[j][i];
             }
-            printf("Maximum in row %d is %d\n",(i+1),max_row);
+            printf("Maximum in row %d = %d\n",(i+1),max_row);
             printf("Maximum in collumn %d is %d\n",(i+1),max_col);
     }
 
