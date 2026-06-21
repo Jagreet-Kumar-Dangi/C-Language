@@ -3,7 +3,7 @@ int main(){
     int n,m,r;
     printf("Enter size of arr1 ");
     scanf("%d",&n);
-    printf("Enter size of arr2");
+    printf("Enter size of arr2 ");
     scanf("%d",&m);
     r=n+m;
     int arr1[n],arr2[m],arr3[r];
