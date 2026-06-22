@@ -2,7 +2,7 @@
 int main(){
     int arr[3][3],arr1[3][3],arm[3][3];
     int r,c;
-    printf("Enter the elements in Array\n");
+    printf("Enter the elements in Array-:\n");
     for(r=0;r<3;r++){
         for(c=0;c<3;c++){
             scanf("%d",&arr[r][c]);
