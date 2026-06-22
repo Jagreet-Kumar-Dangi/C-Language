@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int n,m,r;
-    printf("Enter size of arr1 ");
+    printf("Enter size of arr1-:");
     scanf("%d",&n);
     printf("Enter size of arr2 ");
     scanf("%d",&m);
