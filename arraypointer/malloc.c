@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int arr1[]={34,3,2,56,7,5};
+    int arr1[]={35,3,2,56,7,5};
     //malloc 
     int *arr2=(int *)malloc(sizeof(int) * 5);
     printf("Value at arr2 is %d\n",arr2[0]);
