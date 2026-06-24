@@ -1,7 +1,7 @@
 #include <stdio.h>
 int count (int arr[],int s,int x);
 int main(){
-    printf("Enter the size of an array:");
+    printf("Enter the size of an array -:");
     int n;
     scanf("%d",&n);
     printf("Enter the values in array: \n");
