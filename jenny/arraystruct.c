@@ -8,8 +8,8 @@ struct student
 int main(){
     struct student s[3];
     for (int i=0;i<5;i++){
-        printf("Enter Info of Students hi =%d\n",i+1);
-        printf("Enter Roll no=");
+        printf("Enter Info of Students: %d\n",i+1);
+        printf("Enter Roll no: ");
         scanf("%d",&s[i].roll);
         getchar();
         printf("Enter Name= ");
