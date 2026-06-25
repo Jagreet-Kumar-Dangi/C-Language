@@ -14,7 +14,7 @@ void sort(char str[],int n){
 }
 int main(){
     char str1[100],str2[100];
-    printf("\n String 1: ");
+    printf("\n String 1 -: ");
     fgets(str1,100,stdin);
     printf("\n String 2: ");
     fgets(str2,100,stdin);
