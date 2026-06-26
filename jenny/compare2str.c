@@ -4,7 +4,7 @@ int main(){
     char str1[100],str2[100];
     printf("Enter String 1-: ");
     fgets(str1,100,stdin);
-    printf("Enter String 2: ");
+    printf("Enter String 2-: ");
     fgets(str2,100,stdin);
     // int comp=strcmp(str1,str2);
     // printf("%d",comp);
