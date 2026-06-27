@@ -14,7 +14,7 @@ int main() {
     }
 
    
-    printf("Enter CGPA of %d students: \n", n);
+    printf("Enter CGPA of %d students-:\n", n);
     for (int i = 0; i < n; i++) {
         printf("Student %d: ", i + 1);
         scanf("%f", &cgpa[i]);
