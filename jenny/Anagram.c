@@ -16,10 +16,10 @@ int main(){
     char str1[100],str2[100];
     printf("\n String 1 -: ");
     fgets(str1,100,stdin);
-    printf("\n String 2: ");
+    printf("\n String 2-: ");
     fgets(str2,100,stdin);
     if(strlen(str1)!=strlen(str2)){
-        printf("\n Not Anagram Strings}");
+        printf("\n Not Anagram Strings");
     }else{
         sort(str1,100);
         sort(str2,100);
