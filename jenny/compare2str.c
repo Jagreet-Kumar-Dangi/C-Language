@@ -16,7 +16,7 @@ int main(){
         }
     }
     if(flag==1){
-        printf("String are not equal\n");
+        printf("String are not equal.\n");
     }
     else{
         printf("Strings are equal\n");
