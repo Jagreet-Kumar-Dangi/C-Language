@@ -12,7 +12,7 @@ int main(){
         printf("Enter Roll no: ");
         scanf("%d",&s[i].roll);
         getchar();
-        printf("Enter Name= ");
+        printf("Enter Name-:");
         fgets(s[i].name,200,stdin);
         printf("Enter Marks: ");
         scanf("%f",&s[i].marks);
