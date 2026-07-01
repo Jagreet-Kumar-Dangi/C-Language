@@ -19,7 +19,7 @@ int main(){
         printf("String are not equal.\n");
     }
     else{
-        printf("Strings are equal\n");
+        printf("Strings are equal.\n");
     }
     return 0;
 }
