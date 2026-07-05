@@ -4,7 +4,7 @@ int main(){
     scanf("%d %d",&row,&coll);
     int arr[row][coll];
     int r,c;
-    printf("Enter element in array!\n");
+    printf("Enter element in array-:\n");
     for(r=0;r<row;r++){
         for(c=0;c<coll;c++){
             scanf("%d",&arr[r][c]);
