@@ -40,7 +40,7 @@ int main(){
         }
         printf("\n");
     }
-    printf("Value of Multiplication of both array!\n");
+    printf("Value of Multiplication of both array:\n");
     for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             printf("%d",arr2[i][j]);
