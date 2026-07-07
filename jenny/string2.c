@@ -2,7 +2,7 @@
 #include <string.h>
 int main(){
     char str1[50],str2[50];
-    printf("Enter string1 : ");
+    printf("Enter string1-: ");
     fgets(str1,50,stdin);
     printf("Enter string2: ");
     fgets(str2,50,stdin);
