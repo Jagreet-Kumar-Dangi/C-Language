@@ -8,7 +8,7 @@ struct Student
 int main(){
     struct Student s1;
     struct Student s2;
-    printf("Enter Info for string1 ");
+    printf("Enter Info for string-:");
     scanf("%d",&s1.rollno);
     getchar();
     fgets(s1.name,200,stdin);
