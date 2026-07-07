@@ -14,7 +14,7 @@ int main(){
     fgets(s1.name,200,stdin);
     
     scanf("%f",&s1.marks);
-    printf("Enter info of s2= ");
+    printf("Enter info of s2-:");
     scanf("%d",&s2.rollno);
     getchar();
     fgets(s2.name,200,stdin);
