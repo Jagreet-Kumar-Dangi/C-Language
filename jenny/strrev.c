@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main(){
-    printf("Enter Character: ");
+    printf("Enter Character-:");
     char str[100];
     fgets(str,100,stdin);
     int l=strlen(str);
