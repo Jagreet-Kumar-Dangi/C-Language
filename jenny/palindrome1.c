@@ -2,7 +2,7 @@
 #include <string.h>
 int main(){
     char str[100],org[100];
-    printf("Enter String: ");
+    printf("Enter String-:");
     fgets(str,100,stdin);
     int j=0;
     for(int i=0;str[i]!='\0';i++){
