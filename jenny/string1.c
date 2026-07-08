@@ -4,7 +4,7 @@ int main(){
 
     char s1[50];
     char s2[50];
-    printf("Enter string1: ");
+    printf("Enter string1-:");
     fgets(s1,50,stdin);
     printf("Enter string2: ");
     fgets(s2,50,stdin);
