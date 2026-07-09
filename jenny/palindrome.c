@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int main(){
     char str1[100],org[100];
-    printf("Enter Character: ");
+    printf("Enter Character-: ");
     fgets(str1,100,stdin);
     strcpy(org,str1);
     strrev(str1);
