@@ -16,7 +16,7 @@ int main(){
     if(res)
         printf("Total occurence of %d is %d\n",n,res);
     else
-        printf("Element %d not exist in array",x);
+        printf("Element %d not exist in array.",x);
     return 0;
 }
 int count (int arr[],int s,int x){
