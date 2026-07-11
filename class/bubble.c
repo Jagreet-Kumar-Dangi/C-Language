@@ -1,7 +1,7 @@
 #include <stdio.h>
 void sort(int arr[],int s);
 int main(){
-    printf("Enter the size of an array -:");
+    printf("Enter the size of an array-:");
     int n;
     scanf("%d",&n);
     printf("Enter the values in array-:\n");
