@@ -13,7 +13,7 @@ int main(){
     printf("Enter location to replace-: ");
     scanf("%d",&x);
     if(x>=n ||x<0){
-        printf("Not possible");
+        printf("Not possible.");
     }else{
         arr[x]=e;
     }
