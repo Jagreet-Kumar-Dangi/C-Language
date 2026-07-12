@@ -30,7 +30,7 @@ int main(){
     for(int i=0;i<n1;i++){
         arr2[i]=arr3[i];
     }
-    printf("\nArray after swaping -:\n");
+    printf("\nArray after swaping-:\n");
     printf("\nArray 1 \n");
     for(int i=0;i<n1;i++){
         printf("%d ",arr1[i]);
