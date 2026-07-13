@@ -14,7 +14,7 @@ int main(){
     scanf("%d",&x);
     int res= count (arr,n,x);
     if(res)
-        printf("Total occurence of %d is %d\n",n,res);
+        printf("Total occurence of %d is %d.\n",n,res);
     else
         printf("Element %d not exist in array.",x);
     return 0;
