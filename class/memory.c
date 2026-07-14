@@ -20,7 +20,7 @@ int main() {
         scanf("%f", &cgpa[i]);
     }
 
-    printf("\nCGPA of students -:\n");
+    printf("\nCGPA of students-:\n");
     for (int i = 0; i < n; i++) {
         printf("Student %d CGPA = %.2f\n", i + 1, cgpa[i]);
     }
