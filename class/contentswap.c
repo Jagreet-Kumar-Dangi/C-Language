@@ -12,7 +12,7 @@ int main(){
     for(int i=0;i<n1;i++){
         scanf("%d",&arr2[i]);
     }
-    printf("\nArray before swaping: \n");
+    printf("\nArray before swaping:\n");
     printf("\nArray 1 \n");
     for(int i=0;i<n1;i++){
         printf("%d ",arr1[i]);
