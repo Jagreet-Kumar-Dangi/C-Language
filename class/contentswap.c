@@ -4,7 +4,7 @@ int main(){
     printf("Enter the size of an array-:");
     scanf("%d",&n1);
     int arr1[n1],arr2[n1],arr3[n1];
-    printf("Enter the value of an array 1-: ");
+    printf("Enter the value of an array 1-:");
     for(int i=0;i<n1;i++){
         scanf("%d",&arr1[i]);
     }
