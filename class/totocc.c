@@ -10,7 +10,7 @@ int main(){
         scanf("%d",&arr[i]);
     }
     int x;
-    printf("Enter the value to search-:\n");
+    printf("Enter the value to search-:");
     scanf("%d",&x);
     int res= count (arr,n,x);
     if(res)
