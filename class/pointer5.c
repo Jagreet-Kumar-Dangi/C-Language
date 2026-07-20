@@ -10,7 +10,7 @@ int main(){
     }
     printf("Enter element to replace-:");
     scanf("%d",&e);
-    printf("Enter location to replace-:");
+    printf("Enter location to replace-: ");
     scanf("%d",&x);
     if(x>=n ||x<0){
         printf("Not possible.");
