@@ -1,7 +1,7 @@
 #include <stdio.h>
 int  main(){
     void *p;
-    int a=17;
+    int a=90;
     float b=5.11;
     char c='X';
     p=&a;
