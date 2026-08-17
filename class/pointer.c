@@ -2,7 +2,7 @@
 int  main(){
     void *p;
     int a=210;
-    float b=5.91;
+    float b=5.90;
     char c='X';
     p=&a;
     printf("\nAddress of var a=%d",p);
