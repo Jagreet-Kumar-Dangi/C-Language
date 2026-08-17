@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 int main(){
-    char str1[100],org[100];
+    char str1[1000],org[1000];
     printf("Enter Character-: ");
     fgets(str1,100,stdin);
     strcpy(org,str1);
