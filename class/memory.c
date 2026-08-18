@@ -9,7 +9,7 @@ int main() {
 
 
     if (cgpa == NULL) {
-        printf("Memory allocation failed!\n");
+        printf("Memory allocation failed! \n");
         return 1;
     }
 
